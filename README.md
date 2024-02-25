@@ -6,3 +6,15 @@ Embark on a journey of exploration with our Career Guidance Android application.
 Home Page
 
 ![Alt DDD](Screenshots/E_HomePage.jpeg)
+
+Careers after High School Page
+
+![Alt DDD](Screenshots/E_After10th.jpeg)
+
+Careers after Diploma Page
+
+![Alt DDD](Screenshots/E_AfterIntermediate.jpeg)
+
+Scholarhip and talent test exams Page
+
+![Alt DDD](Screenshots/E_Talent_Test.jpeg)
