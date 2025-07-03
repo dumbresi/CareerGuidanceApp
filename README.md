@@ -12,12 +12,20 @@ Home Page
 
 Careers after High School Page
 
-![Alt DDD](Screenshots/E_After10th.jpeg)
+<div align="center">
+  <img src="./Screenshots/E_After10th.jpeg" alt="After10th" width="300"/>
+</div>
+<!-- ![Alt DDD](Screenshots/E_After10th.jpeg) -->
 
 Careers after Diploma Page
 
-![Alt DDD](Screenshots/E_AfterIntermediate.jpeg)
+<div align="center">
+  <img src="./Screenshots/E_AfterIntermediate.jpeg" alt="After10th" width="300"/>
+</div>
 
 Scholarhip and talent test exams Page
 
-![Alt DDD](Screenshots/E_Talent_Test.jpeg)
+<div align="center">
+  <img src="./Screenshots/E_Talent_Test.jpeg" alt="After10th" width="300"/>
+</div>
+
