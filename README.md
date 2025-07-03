@@ -5,7 +5,10 @@ Embark on a journey of exploration with our Career Guidance Android application.
 
 Home Page
 
-![Alt DDD](Screenshots/E_HomePage.jpeg)
+<div align="center">
+  <img src="./Screenshots/E_HomePage.jpeg" alt="HomePage" width="300"/>
+</div>
+<!-- ![Alt DDD](Screenshots/E_HomePage.jpeg) -->
 
 Careers after High School Page
 
